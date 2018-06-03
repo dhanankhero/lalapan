@@ -1,0 +1,94 @@
+@import "material.css";
+@import "fancygradient.css";
+@import "menu.css";
+/* Main css */
+
+h3 {
+  text-align: center;
+}
+
+a:hover {
+  text-decoration: none !important;
+}
+
+footer {
+  padding: 20px;
+  text-align: center;
+  border-top: 1px solid #ccc;
+}
+
+/*div kosong*/
+
+.space {
+  height: 100px;
+}
+
+.space1 {
+  height: 50px;
+}
+
+/* Header Web */
+
+.head {
+  text-align: center;
+  color: #260010;
+  font-size: 50px;
+  padding: 50px 0;
+  background-image: url(../img/Background/background.jpg);
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+}
+
+.id {
+  color: #0a342e !important;
+}
+
+.kurawal {
+  color: #d53d3d;
+}
+
+.rainbow {
+  background: linear-gradient(45deg, #408cc6, #fb88d0);
+  color: #fff;
+  padding: 2px 15px 6px 15px;
+  border-radius: 10px;
+}
+
+.head a, a:hover {
+  color: #000 !important;
+}
+
+/* Menu Sosial Media */
+
+.sosmed {
+  padding: 10px;
+  text-align: center;
+}
+
+.center {
+  text-align: center;
+}
+
+/*ukuran Box Warna*/
+
+.boxcolor {
+  border-radius: 10px;
+  text-align: center;
+  padding-top: 60px;
+  padding-bottom: 10px;
+}
+
+.boxcolor1 {
+  border-radius: 10px;
+  text-align: center;
+  padding-top: 34px;
+  padding-bottom: 30px;
+}
+
+.bg-black {
+  padding: 50px;
+  background-color: #1a1a1a;
+  border-top: 10px solid #464646;
+  border-bottom: 10px solid #464646;
+}

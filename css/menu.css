@@ -1,0 +1,50 @@
+/* Daftar Menu */
+
+.menu {
+  padding: 30px;
+  text-align: center;
+  border-radius: 10px;
+  font-size: 20px;
+}
+
+/* Isi Menu */
+
+.material {
+  background-color: #1eb382;
+  box-shadow: inset 0 -10px 5px 0 #1a916a;
+  color: #fff;
+}
+
+.material:hover {
+  box-shadow: inset 0 10px 5px 0 #1a916a;
+}
+
+.flat {
+  background-color: #cc40a5;
+  box-shadow: inset 0 -10px 5px 0 #9c2d7d;
+  color: #fff;
+}
+
+.flat:hover {
+  box-shadow: inset 0 10px 5px 0 #9c2d7d;
+}
+
+.fluent {
+  background-color: #f56c15;
+  box-shadow: inset 0 -10px 5px 0 #cc5910;
+  color: #fff;
+}
+
+.fluent:hover {
+  box-shadow: inset 0 10px 5px 0 #cc5910;
+}
+
+.fancygradient {
+  background-color: #2285b1;
+  box-shadow: inset 0 -10px 5px 0 #165d7d;
+  color: #fff;
+}
+
+.fancygradient:hover {
+  box-shadow: inset 0 10px 5px 0 #165d7d;
+}
