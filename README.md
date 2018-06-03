@@ -1,2 +1,3 @@
 # lalapan
-Halo.. Kami cinta Lalapan :D
+Halo.. 
+Terima kasih telah menggunakan kami..
