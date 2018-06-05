@@ -96,3 +96,25 @@ footer {
   border-top: 10px solid #464646;
   border-bottom: 10px solid #464646;
 }
+
+.imgtron {
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+  margin-bottom: 50px;
+}
+
+.title {
+  padding: 50px;
+  text-align: center;
+  color: #fff;
+  background-color: #0005;
+}
+
+.title a{
+  color: #fff !important;
+}
+
+.title a:hover {
+  color: #aed5ed !important;
+}
