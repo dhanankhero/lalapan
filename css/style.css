@@ -88,12 +88,16 @@ footer {
   padding-bottom: 30px;
 }
 
+/* Black Box */
+
 .bg-black {
   padding: 50px;
   background-color: #1a1a1a;
   border-top: 10px solid #464646;
   border-bottom: 10px solid #464646;
 }
+
+/* Url Kunjungan Halaman */
 
 .imgtron {
   background-position: center;
@@ -118,7 +122,6 @@ footer {
 }
 
 /* scrollbar */
-
 /* width */
 ::-webkit-scrollbar {
     width: 10px;
