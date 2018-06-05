@@ -2,6 +2,16 @@
   background-image: url(../img/material%20Design/mat1.jpg);
 }
 
+.matstyle {
+  z-index: -1;
+}
+
+.matstyle:hover {
+  z-index: 1;
+  box-shadow: 0px 0px 10px 4px #0005;
+  position: relative;
+}
+
 .c8BC34A {
   background-color: #8BC34A;
   color: #fff;
