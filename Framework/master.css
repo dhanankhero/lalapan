@@ -93,3 +93,15 @@
 .flu-46 { background-color: #10893E; }
 .flu-47 { background-color: #107C10; }
 .flu-48 { background-color: #7E735F; }
+
+/* Fancy Gradient Color */
+.fan-1 { background: linear-gradient(#A9F1DF , #FFBBBB); }
+.fan-2 { background: linear-gradient(#D8B5FF , #1EAE98); }
+.fan-3 { background: linear-gradient(#BFF098 , #6FD6FF); }
+.fan-4 { background: linear-gradient(#C6EA8D , #FE90AF); }
+.fan-5 { background: linear-gradient(#F1EAB9 , #FF8C8C); }
+.fan-6 { background: linear-gradient(#EA8D8D , #A890FE); }
+.fan-7 { background: linear-gradient(#00B7FF , #FFFFC7); }
+.fan-8 { background: linear-gradient(#FCA5F1 , #B5FFFF); }
+.fan-9 { background: linear-gradient(#D74177 , #FFE98A); }
+.fan-10 { background: linear-gradient(#38ADAE , #CD295A); }
