@@ -1,6 +1,5 @@
 # lalapan
-Halo..
-Terima kasih telah menggunakan kami..
+## Halo.. :wave:
 
-Untuk semetara waktu ini, Lalapan sedang dalam pembangunan..
-jadi, sabar yaa.
+Selamat datang di Lalapan.. 
+
