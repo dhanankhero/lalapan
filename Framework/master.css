@@ -189,6 +189,7 @@
 .flu-fn-48 { color: #7E735F; }
 
 /* Fancy Gradient Color */
+/* Background Color */
 .fan-bg-1 { background: linear-gradient(#A9F1DF , #FFBBBB); }
 .fan-bg-2 { background: linear-gradient(#D8B5FF , #1EAE98); }
 .fan-bg-3 { background: linear-gradient(#BFF098 , #6FD6FF); }
@@ -199,3 +200,14 @@
 .fan-bg-8 { background: linear-gradient(#FCA5F1 , #B5FFFF); }
 .fan-bg-9 { background: linear-gradient(#D74177 , #FFE98A); }
 .fan-bg-10 { background: linear-gradient(#38ADAE , #CD295A); }
+/* Font Color */
+.fan-fn-1 { background: linear-gradient(#A9F1DF , #FFBBBB);-webkit-text-fill-color: transparent;-webkit-background-clip: text; }
+.fan-fn-2 { background: linear-gradient(#D8B5FF , #1EAE98);-webkit-text-fill-color: transparent;-webkit-background-clip: text; }
+.fan-fn-3 { background: linear-gradient(#BFF098 , #6FD6FF);-webkit-text-fill-color: transparent;-webkit-background-clip: text; }
+.fan-fn-4 { background: linear-gradient(#C6EA8D , #FE90AF);-webkit-text-fill-color: transparent;-webkit-background-clip: text; }
+.fan-fn-5 { background: linear-gradient(#F1EAB9 , #FF8C8C);-webkit-text-fill-color: transparent;-webkit-background-clip: text; }
+.fan-fn-6 { background: linear-gradient(#EA8D8D , #A890FE);-webkit-text-fill-color: transparent;-webkit-background-clip: text; }
+.fan-fn-7 { background: linear-gradient(#00B7FF , #FFFFC7);-webkit-text-fill-color: transparent;-webkit-background-clip: text; }
+.fan-fn-8 { background: linear-gradient(#FCA5F1 , #B5FFFF);-webkit-text-fill-color: transparent;-webkit-background-clip: text; }
+.fan-fn-9 { background: linear-gradient(#D74177 , #FFE98A);-webkit-text-fill-color: transparent;-webkit-background-clip: text; }
+.fan-fn-10 { background: linear-gradient(#38ADAE , #CD295A);-webkit-text-fill-color: transparent;-webkit-background-clip: text; }
