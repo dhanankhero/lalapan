@@ -1,5 +1,4 @@
-# lalapan
+# Framework CSS Warna
 ## Halo.. :wave:
 
-Selamat datang di Lalapan.. 
-
+Selamat datang di Lalapan..
