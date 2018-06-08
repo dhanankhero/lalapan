@@ -1,3 +1,5 @@
+![alt text](https://github.com/dhanankhero/lalapan/blob/master/img/Logo.png "Logo Title Text 1")
+
 Lalapan
 ============
 
