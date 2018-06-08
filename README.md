@@ -1,8 +1,6 @@
 ![alt text](https://github.com/dhanankhero/lalapan/blob/master/img/Logo.png "Logo Title Text 1")
 
-Lalapan
-============
-
+# Halo :D
 Selamat datang di Lalapan..
 
 Lalapan adalah sebuah Framework Css yang pada awalnya di rakit untuk kebutuhan Desain Pribadi....
