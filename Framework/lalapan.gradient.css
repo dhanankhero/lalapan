@@ -816,5 +816,6 @@
 .fan-bg-9-360 { background: linear-gradient(360deg , #D74177 , #FFE98A); }
 .fan-bg-10-360 { background: linear-gradient(360deg , #38ADAE , #CD295A); }
 
-/* Font Color */
+/* Font Masking */
 .fontmask { -webkit-text-fill-color: transparent;-webkit-background-clip: text; }
+.fontmask-img { -webkit-text-fill-color: transparent;-webkit-background-clip: text;background-position: center;background-size: cover; }
