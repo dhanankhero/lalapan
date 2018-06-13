@@ -212,4 +212,7 @@
 .fan-fn-9 { background: linear-gradient(#D74177 , #FFE98A);-webkit-text-fill-color: transparent;-webkit-background-clip: text; }
 .fan-fn-10 { background: linear-gradient(#38ADAE , #CD295A);-webkit-text-fill-color: transparent;-webkit-background-clip: text; }
 
-/* Gradasi Global */
+/* Font Gradient */
+.fclip {
+  -webkit-text-fill-color: transparent;-webkit-background-clip: text;
+}
