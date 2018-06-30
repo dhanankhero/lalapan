@@ -216,3 +216,7 @@
 .fclip {
   -webkit-text-fill-color: transparent;-webkit-background-clip: text;
 }
+
+/* Font Masking */
+.fontmask { -webkit-text-fill-color: transparent;-webkit-background-clip: text; }
+.fontmask-img { -webkit-text-fill-color: transparent;-webkit-background-clip: text;background-position: center;background-size: cover; }
