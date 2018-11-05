@@ -1,0 +1,58 @@
+.box-card {box-shadow: 0px 20px 50px #0002;margin: 50px 0 50px;color: #fff;text-shadow: 0 0 10px #000;border-radius: 20px;overflow: hidden;text-transform: uppercase;}
+.headblock {height: 200px;position: relative;}
+*:focus {outline: 0}
+.insblock {height: 150px;width: 33.333334%;position: relative;}
+  .insblock .middle {font-size: 20px;font-weight: bold;font-variant-caps: titling-caps;}
+.headblock, .insblock {font-family: arial !important}
+.content {display: flex;}
+.middle {position: absolute;top: 50%;left: 50%;transform: translateX(-50%) translateY(-50%);font-size: 40px;font-weight: normal;}
+
+/*Perpustakaan Warna*/
+.ie94e4e {background-color: #f1c671}
+.ibcfbd7 {background-color: #bcfbd7}
+.i95f9c0 {background-color: #95f9c0}
+.i66ffa8 {background-color: #66ffa8}
+.i8b2321 {background-color: #8b2321}
+.i721918 {background-color: #721918}
+.i651411 {background-color: #651411}
+.i4e110e {background-color: #4e110e}
+.ic3e3a0 {background-color: #c3e3a0}
+.i8fabc8 {background-color: #8fabc8}
+.i6295c9 {background-color: #6295c9}
+.i3881cb {background-color: #3881cb}
+.i18c763 {background-color: #18c763}
+.i575757 {background-color: #575757}
+.i494949 {background-color: #494949}
+.i373737 {background-color: #373737}
+.i92B267 {background-color: #92B267}
+.iE9A561 {background-color: #E9A561}
+.iC08C50 {background-color: #C08C50}
+.i99642B {background-color: #99642B}
+.iD8B2A2 {background-color: #D8B2A2}
+.iD6A4B5 {background-color: #D6A4B5}
+.iA787AA {background-color: #A787AA}
+.i846593 {background-color: #846593}
+.iE9B243 {background-color: #E9B243}
+.iF5F0EC {background-color: #F5F0EC}
+.iDAD5D2 {background-color: #DAD5D2}
+.i3A3B3F {background-color: #3A3B3F}
+.iF944A2 {background-color: #F944A2}
+.iE7378A {background-color: #E7378A}
+.iC1266A {background-color: #C1266A}
+.i7B1435 {background-color: #7B1435}
+.iC29558 {background-color: #C29558}
+.i330A0F {background-color: #330A0F}
+.i4B0410 {background-color: #4B0410}
+.i6D1128 {background-color: #6D1128}
+.iF88D90 {background-color: #F88D90}
+.iDB6F7A {background-color: #DB6F7A}
+.iC6565D {background-color: #C6565D}
+.iF9E3D6 {background-color: #F9E3D6}
+.iD1FFE8 {background-color: #D1FFE8}
+.iD1E1FF {background-color: #D1E1FF}
+.ifbd1ff {background-color: #fbd1ff}
+.iffffd1 {background-color: #ffffd1}
+.i2a2424 {background-color: #2a2424}
+.i4d4545 {background-color: #4d4545}
+.if6c800 {background-color: #f6c800}
+.if67e00 {background-color: #f67e00}
